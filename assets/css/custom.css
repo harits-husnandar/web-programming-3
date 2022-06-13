@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap");
+
+* {
+	font-family: "poppins", sans-serif;
+}
+
+.card-title {
+	font-family: "Poppins", sans-serif;
+}
+
+.lol {
+	width: 16rem;
+	height: 29rem;
+	transisition: 0.5s;
+}
+
+.lol:hover {
+	border: 1px solid #f9d923;
+}
